@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[32,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/teamauroramods/FrostburnExpansion/issues"
+
+[[mods]]
+modId="frostburn_expansion"
+version="${file.jarVersion}"
+displayName="Frostburn Expansion"
+displayURL="https://discord.gg/BgE4EpP"
+logoFile="logo.png"
+authors="Team Aurora"
+description="An expansion to the hot and cold areas of Minecraft"
+
+[[dependencies.frostburn_expansion]]
+modId="forge"
+mandatory=true
+versionRange="[35.1.10,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.frostburn_expansion]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.4]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.frostburn_expansion]]
+modId="abnormals_core"
+mandatory=true
+versionRange="[3.1.0,)"
+ordering="AFTER"
+side="BOTH"
