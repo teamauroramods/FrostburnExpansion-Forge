@@ -1,0 +1,47 @@
+{
+  "_comment": "Tundra Content",
+
+  "item.frostburn_expansion.brisk_spawn_egg" : "Brisk Spawn Egg",
+  "entity.frostburn_expansion.brisk" : "Brisk",
+
+  "item.frostburn_expansion.frozen_spores": "Frozen Spores",
+  "block.frostburn_expansion.frozen_spore_sack": "Frozen Spore Sack",
+  "block.frostburn_expansion.potted_frozen_spores": "Potted Frozen Spores",
+
+  "item.minecraft.potion.effect.frailty" : "Potion of Frailty",
+  "item.minecraft.potion.effect.long_frailty" : "Potion of Frailty",
+  "item.minecraft.potion.effect.strong_frailty" : "Potion of Frailty",
+
+  "item.minecraft.splash_potion.effect.frailty" : "Splash Potion of Frailty",
+  "item.minecraft.splash_potion.effect.long_frailty" : "Splash Potion of Frailty",
+  "item.minecraft.splash_potion.effect.strong_frailty" : "Splash Potion of Frailty",
+
+  "item.minecraft.lingering_potion.effect.frailty" : "Lingering Potion of Frailty",
+  "item.minecraft.lingering_potion.effect.long_frailty" : "Lingering Potion of Frailty",
+  "item.minecraft.lingering_potion.effect.strong_frailty" : "Lingering Potion of Frailty",
+
+  "item.minecraft.tipped_arrow.effect.frailty" : "Arrow of Frailty",
+  "item.minecraft.tipped_arrow.effect.long_frailty" : "Arrow of Frailty",
+  "item.minecraft.tipped_arrow.effect.strong_frailty" : "Arrow of Frailty",
+
+  "effect.frostburn_expansion.frailty" : "Frailty",
+
+  "item.frostburn_expansion.music_disc_brisksong.desc" : "Mista Jub - Brisksong",
+
+  "item.frostburn_expansion.music_disc_brisksong": "Music Disc",
+
+  "block.frostburn_expansion.borealene": "Borealene",
+  "block.frostburn_expansion.borealene_slab": "Borealene Slab",
+  "block.frostburn_expansion.borealene_stairs": "Borealene Stairs",
+  "block.frostburn_expansion.borealene_wall": "Borealene Wall",
+  "block.frostburn_expansion.borealene_bricks": "Borealene Bricks",
+  "block.frostburn_expansion.borealene_brick_slab": "Borealene Brick Slab",
+  "block.frostburn_expansion.borealene_brick_stairs": "Borealene Brick Stairs",
+  "block.frostburn_expansion.borealene_brick_wall": "Borealene Brick Wall",
+  "block.frostburn_expansion.cracked_borealene_bricks": "Cracked Borealene Bricks",
+  "block.frostburn_expansion.chiseled_borealene_bricks": "Chiseled Borealene Bricks",
+  "block.frostburn_expansion.borealene_pillar": "Borealene Pillar",
+  "block.frostburn_expansion.borealene_lamp": "Borealene Lamp",
+  "block.frostburn_expansion.borealene_vertical_slab" : "Borealene Vertical Slab",
+  "block.frostburn_expansion.borealene_brick_vertical_slab" : "Borealene Brick Vertical Slab"
+}
